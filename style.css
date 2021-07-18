@@ -1,0 +1,42 @@
+body
+{
+  background-color: lightcoral;
+  font-family: 'Itim', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 35px;
+  border-radius: 30px;
+  font-family: 'Satisfy', cursive;
+  letter-spacing: 7px;
+  text-shadow: 2px 3px orange;
+}
+
+label{
+  font-size: 16px;
+  padding: 5px;
+  background-color: lightcyan;
+  border-radius: 10px;
+}
